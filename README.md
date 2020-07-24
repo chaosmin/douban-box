@@ -51,3 +51,4 @@ Gist 中新建名为 `douban.md` 的文件，并从 URL 中得到 Gist ID。
 
 ## License
 [MIT License](https://github.com/CodeDaraW/douban-box/blob/master/LICENSE)
+
